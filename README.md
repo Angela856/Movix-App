@@ -9,3 +9,4 @@
 ## Diseño y planificación
 Sketch, wireframe, mockup y demás material de diseño del equipo:
 [Carpeta de Drive del equipo](https://drive.google.com/drive/folders/1xR_uXHBmCtapYyAKesBxrgiL0XQPg-tE?usp=drive_link)
+[Trello](https://trello.com/b/wayHibfA/movixapp)
